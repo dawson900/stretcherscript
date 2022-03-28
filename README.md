@@ -13,5 +13,5 @@ click X to stop pushing
 
 If you have issues about allignment in an ambulance : Line 88 in EMS.lua
 
-I personal added this redrum's interaction menu so if want help putting it on there contact me on discord 
+I personal added this into redrum's interaction menu so if want help putting it on there contact me on discord 
 Dawson#1409
